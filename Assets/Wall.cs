@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Wal : MonoBehaviour
+public class Wall : MonoBehaviour
 {
     void Start()
     {
@@ -11,7 +11,7 @@ public class Wal : MonoBehaviour
 
     void Update()
     {
-        
+        //-----   
     }
 
     private void OnMouseEnter()
